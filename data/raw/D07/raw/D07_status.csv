@@ -1,0 +1,17 @@
+column,transformation,status
+1_age,Normalization,0
+2_workclass,CatToNum,0
+3_final_weight,Normalization,0
+4_education,CatToNum,0
+5_education_num,Normalization,0
+6_marital_status,CatToNum,0
+7_occupation,CatToNum,0
+8_relationship,CatToNum,0
+9_race,CatToNum,0
+10_sex,CatToBinary,1
+11_capital_gain,Normalization,0
+12_capital_loss,Normalization,0
+13_hours_per_week,Normalization,0
+14_native_country,CatToNum,0
+15_income,CatToBinary,1
+16_dataset_split,Drop,0
