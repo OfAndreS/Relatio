@@ -1,0 +1,11 @@
+data/raw/*
+!data/raw/D07/
+!data/raw/D15/
+!data/raw/D02/
+!data/raw/D12/
+!data/raw/D08/
+!data/raw/D13/
+!data/raw/D10/
+!data/raw/D14/
+.vscode
+.env
